@@ -5,7 +5,7 @@ export default function App() {
   return (
     <>
       <p>
-        Implement this React Component so that the "X" moves, but doesn't fall outside the line
+        Implement this React component so that the "X" moves, but doesn't fall outside the line
       </p>
       <p>
         Also implement the "moves counter" to keep track of successful moves
